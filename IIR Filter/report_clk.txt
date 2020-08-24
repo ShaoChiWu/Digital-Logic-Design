@@ -1,0 +1,19 @@
+ 
+****************************************
+Report : clocks
+Design : IIR
+Version: K-2015.06-SP1
+Date   : Sun Jun 10 23:52:32 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk           100.000   {0 50}                        {clk}
+--------------------------------------------------------------------------------

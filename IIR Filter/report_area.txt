@@ -1,0 +1,29 @@
+ 
+****************************************
+Report : area
+Design : IIR
+Version: K-2015.06-SP1
+Date   : Sun Jun 10 23:52:48 2018
+****************************************
+
+Library(s) Used:
+
+    slow (File: /theda21_2/CBDK_IC_Contest/cur/SynopsysDC/db/slow.db)
+
+Number of ports:                         2651
+Number of nets:                          6106
+Number of cells:                         2332
+Number of combinational cells:           1984
+Number of sequential cells:               310
+Number of macros/black boxes:               0
+Number of buf/inv:                        267
+Number of references:                      53
+
+Combinational area:              49217.812617
+Buf/Inv area:                     1347.735579
+Noncombinational area:            7702.800987
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                 56920.613604
+Total area:                 undefined
